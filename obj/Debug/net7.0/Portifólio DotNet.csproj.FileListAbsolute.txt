@@ -1,0 +1,51 @@
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.csproj.AssemblyReference.cache
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.AssemblyInfoInputs.cache
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.AssemblyInfo.cs
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.csproj.CoreCompileInputs.cache
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.RazorAssemblyInfo.cache
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.RazorAssemblyInfo.cs
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\appsettings.json
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Portifólio DotNet.exe
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Portifólio DotNet.deps.json
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Portifólio DotNet.runtimeconfig.json
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Portifólio DotNet.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Portifólio DotNet.pdb
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Humanizer.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\18472\Documents\Portifólio DotNet\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.csproj.CopyComplete
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.dll
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\refint\Portifólio DotNet.dll
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.pdb
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\Portifólio DotNet.genruntimeconfig.cache
+C:\Users\18472\Documents\Portifólio DotNet\obj\Debug\net7.0\ref\Portifólio DotNet.dll
