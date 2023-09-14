@@ -9,8 +9,8 @@ public class ProjectProfile : Profile
     public ProjectProfile()
     {
         CreateMap<CreateProjectDto, Project>();
-        CreateMap<Project, ReadProjectDto>();
         CreateMap<UpdateProjectDto, Project>();
+        CreateMap<Project, ReadProjectDto>();
         CreateMap<Project, UpdateProjectDto>();
     }
 }

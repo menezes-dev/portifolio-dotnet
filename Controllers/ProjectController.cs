@@ -8,7 +8,7 @@ using Portifólio_DotNet.Models;
 namespace Portifólio_DotNet.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("[Controller]")]
 public class ProjectController : ControllerBase
 {
     private ProjectContext _context;
@@ -24,8 +24,10 @@ public class ProjectController : ControllerBase
     public IActionResult CreateProject([FromBody] CreateProjectDto data)
     {
         Project project = _mapper.Map<Project>(data);
+        
         _context.Projects.Add(project);
         _context.SaveChanges();
+
         return CreatedAtAction(nameof(RetrieveProject), new {id = project.Id}, project);
     }
 

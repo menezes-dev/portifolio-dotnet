@@ -11,7 +11,6 @@ public class UpdateProjectDto
     public string? Tags {get; set;}
    
     public string? Deploy { get; set; }
-
    
     public string? Code { get; set; }
 }
